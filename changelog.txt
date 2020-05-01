@@ -1,0 +1,9 @@
+v2.03
+- bug fixes and improvements
+- new look
+- NEW! help page
+- NEW! multi language support
+
+v2.02
+- bug fixes and improvements
+- NEW! hardcore mode

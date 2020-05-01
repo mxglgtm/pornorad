@@ -1,7 +1,7 @@
 v2.03
 - bug fixes and improvements
 - new look
-- NEW! help page
+- NEW! help page (not working yet)
 - NEW! multi language support
 
 v2.02
